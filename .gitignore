@@ -1,1 +1,5 @@
 .idea
+node_modules
+package-lock.json
+doc/.vitepress/cache/deps
+/doc/.vitepress/cache/deps/
